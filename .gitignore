@@ -1,0 +1,17 @@
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Jekyll/GitHub Pages
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+#Git
+.git/
